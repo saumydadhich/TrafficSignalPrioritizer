@@ -1,4 +1,8 @@
-# TrafficSignalPrioritizer
+<p align="center">
+  <img width="460" height="300" src="https://github.com/storm-king/TrafficSignalPrioritizer/blob/master/DemoGif.gif">
+</p>
+
+# Traffic Signal Prioritizer
   This repository is for the Traffic Signal Prioritizer final project for the Computer Vision course at UNC Charlotte. We trained a Neural Network to detect both cars and pedestrians using the feed from existing traffic cameras provided by the CityCam dataset. We then passed the output of the network into a traffic signal controller algorithm that will determine the signal for both the traffic light and the crosswalk.
 
 ## Why Did We Choose This?

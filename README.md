@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/storm-king/TrafficSignalPrioritizer/blob/master/DemoGif.gif">
+  <img width="700" height="400" src="https://github.com/storm-king/TrafficSignalPrioritizer/blob/master/DemoGif.gif">
 </p>
 
 # Traffic Signal Prioritizer
